@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-31T17:59:21.620Z'
+datePublished: '2016-08-31T19:47:40.133Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:33:22.801Z'
-title: The MICHAEL JAMES REED Studio
+dateModified: '2016-08-31T19:47:39.758Z'
+title: The MICHAELJAMESREED Studio
 publisher: {}
 description: 'For any age or experience level (children or adults):'
-starred: false
 sourcePath: _posts/2016-08-31-the-michael-james-reed-studio.md
+starred: false
 url: the-michael-james-reed-studio/index.html
 _type: Article
 
