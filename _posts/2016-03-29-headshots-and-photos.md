@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: New headshots. It was time.
-datePublished: '2016-03-29T15:07:38.559Z'
-dateModified: '2016-03-29T15:07:13.955Z'
-title: 'Headshots & Photos'
+datePublished: '2016-08-31T13:59:54.763Z'
+dateModified: '2016-08-31T13:59:53.747Z'
+title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 sourcePath: _posts/2016-03-29-headshots-and-photos.md
-published: true
 url: headshots-and-photos/index.html
 _type: Article
 
