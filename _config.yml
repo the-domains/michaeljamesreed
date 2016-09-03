@@ -28,6 +28,9 @@ navigation:
   - name: Photos
     id: 3e46a602-b253-4bae-9eaf-75dc2116297c
     type: content
+  - name: IMDB
+    id: 9561163f-8bc5-4182-b3de-f57e4b55682b
+    type: content
 favicon: null
 title: Michael James Reed
 description: Actor. Coach. Teacher.
