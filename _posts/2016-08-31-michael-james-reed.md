@@ -26,16 +26,14 @@ description: >-
   starring Hal Holbrook at the Roundabout Theatre.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.imdb.com/name/nm0715594/'
 title: Michael James Reed
-datePublished: '2016-08-31T14:34:16.801Z'
-dateModified: '2016-08-31T14:18:51.130Z'
+datePublished: '2016-08-31T14:36:41.005Z'
+dateModified: '2016-08-31T14:36:40.555Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-31-michael-james-reed.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: michael-james-reed/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
