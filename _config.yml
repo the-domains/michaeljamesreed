@@ -31,6 +31,9 @@ navigation:
   - name: Coaching
     id: d0bf36ec-d064-42d0-b6f8-c9d168bdbf56
     type: content
+  - name: Headshots
+    id: a0adfc13-9eb9-4749-8aa2-e0ff7236d414
+    type: content
 favicon: null
 title: Michael James Reed
 description: Actor. Coach. Teacher.
