@@ -1,33 +1,29 @@
-title: Michael James Reed
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-description: Actor. Coach. Teacher.
+typography_spectrum: 0.6454
 color:
-  saturation: 0.3723311861976981
-  brandStrength: 0.4605684720445424
-  rhythmicContrast: 0.3697203225456178
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0.46056847204454243
   lightness: 0.9632441764697433
+  saturation: 0.3723311861976981
+  rhythmicContrast: 0.3697203225456178
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.719008865300566
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Michael James Reed
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 navigation:
   - name: Photos
     id: 3e46a602-b253-4bae-9eaf-75dc2116297c
@@ -35,15 +31,10 @@ navigation:
   - name: IMDB
     id: 9561163f-8bc5-4182-b3de-f57e4b55682b
     type: content
+  - name: Coaching
+    id: d0bf36ec-d064-42d0-b6f8-c9d168bdbf56
+    type: content
 favicon: null
-name: Michael James Reed
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6454
-layout_spectrum: 0.5042553
+title: Michael James Reed
+description: Actor. Coach. Teacher.
+purpose: []
