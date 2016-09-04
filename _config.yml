@@ -39,6 +39,9 @@ navigation:
   - name: Video
     id: 5c55da68-677b-4bfb-b9c6-3b3407ef82da
     type: content
+  - name: Production Photos
+    id: abadf086-55b1-4ebf-b0f2-fcf00d08bd52
+    type: content
 favicon: null
 collections:
   - index:
