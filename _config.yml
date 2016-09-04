@@ -1,3 +1,16 @@
+layout_spectrum: 0.04254627297632396
+typography_spectrum: 0.2163244914263487
+color:
+  saturation: 0.32824580115266144
+  brandStrength: 0.3307658794801682
+  lightness: 0.748334385221824
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.22544180555269122
 title: Michael James Reed
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
       format: rss
       number: 10
 description: Actor. Coach. Teacher.
-color:
-  saturation: 0.7877826052717865
-  brandStrength: 0.6276596
-  lightness: 0.8969909662846476
-  brandColors:
-    - '#050505'
-    - '#B3C3E3'
-    - '#312F32'
-    - '#BD9176'
-    - '#8F624A'
-  rhythmicContrast: 0.9339092073496431
 navigation:
   - name: Coaching
     id: d0bf36ec-d064-42d0-b6f8-c9d168bdbf56
@@ -50,5 +52,3 @@ opengraph:
   appId: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e29274f-fb52-4443-95d7-6408f731ffa0.jpg
-typography_spectrum: 0.6497801314108074
-layout_spectrum: 1
