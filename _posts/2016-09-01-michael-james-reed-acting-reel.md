@@ -38,16 +38,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/145638602'
 title: Michael James Reed - Acting reel
-datePublished: '2016-09-01T18:59:02.595Z'
-dateModified: '2016-09-01T18:56:36.849Z'
+datePublished: '2016-09-01T18:59:45.465Z'
+dateModified: '2016-09-01T18:59:44.469Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-01-michael-james-reed-acting-reel.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: michael-james-reed-acting-reel/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
