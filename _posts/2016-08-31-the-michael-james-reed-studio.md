@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T16:11:46.541Z'
+datePublished: '2016-09-01T23:26:32.577Z'
 sourcePath: _posts/2016-08-31-the-michael-james-reed-studio.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T16:11:45.826Z'
+dateModified: '2016-09-01T23:26:32.162Z'
 title: The MICHAEL JAMES REED Studio
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ url: the-michael-james-reed-studio/index.html
 _type: Blurb
 
 ---
-## The **MICHAEL JAMES REED** Studio
+# The **MICHAEL JAMES REED** Studio
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ca51b3c-8899-4694-9900-b69bb69af54c.jpg)
 
 * **Audition Preparation:** Sometimes all that's different about an audition that goes well, from one that goes poorly is preparation. In a one-hour session, I can make sure you will know exactly what you want to achieve in that upcoming big audition, and provide you with the tools and insights to leave that room knowing you've done your part in booking that job. All sessions are taped so you can get immediate feedback and learn the basic camera techniques needed to show yourself in the best light.
@@ -26,5 +26,6 @@ _type: Blurb
 * **Career Guidance:** Sometimes all that's needed as an actor is a trusted voice to speak to and answer your questions. These careers we've chosen aren't easy ones, and we face many decisions along the way. I've been in this business for over 30 years, and have lived and acted professionally in London, New York and Los Angeles. I can help you through those big decisions, talk you through the steps you need to take as a performer, and provide you with insights and answers drawn from my own experiences. Hands down, there is no other coach in St. Louis that can match my extensive and broad acting career experience.
 
 _Please [contact][0] me to set up a conversation on how I can best serve you in moving forward with your acting career._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b105a019-38c0-49ca-9789-84094b8c1a40.jpg)
 
 [0]: mailto:studio@michaeljamesreed.com
