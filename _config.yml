@@ -27,6 +27,9 @@ cta:
   version: null
   domain: null
 navigation:
+  - name: IMDB
+    url: 'http://www.imdb.com/name/nm0715594/'
+    type: external
   - name: Coaching
     id: d0bf36ec-d064-42d0-b6f8-c9d168bdbf56
     type: content
@@ -36,9 +39,6 @@ navigation:
   - name: Production Photos
     id: abadf086-55b1-4ebf-b0f2-fcf00d08bd52
     type: content
-  - name: IMDB
-    url: 'http://www.imdb.com/name/nm0715594/'
-    type: external
   - name: Video
     id: 5c55da68-677b-4bfb-b9c6-3b3407ef82da
     type: content
