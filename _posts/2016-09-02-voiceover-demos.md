@@ -1,19 +1,20 @@
 ---
-datePublished: '2016-09-02T04:30:12.342Z'
+datePublished: '2016-09-02T04:31:03.748Z'
 inFeed: true
-isBasedOnUrl: 'https://soundcloud.com/user-123236024/michael-james-reed-commercial'
 author:
   - name: Michael James Reed
     url: 'http://soundcloud.com/user-123236024'
     avatar: {}
 via: {}
-dateModified: '2016-09-02T04:28:48.332Z'
+dateModified: '2016-09-02T04:31:03.317Z'
 title: Voiceover Demos
 publisher: {}
 description: Commercial voiceover demo for Michael James Reed
-starred: false
 sourcePath: _posts/2016-09-02-voiceover-demos.md
-_type: MediaObject
+hasPage: true
+starred: false
+url: voiceover-demos/index.html
+_type: Article
 
 ---
 # **Voiceover Demos**
