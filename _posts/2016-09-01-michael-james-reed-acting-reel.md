@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T03:46:22.563Z'
+datePublished: '2016-09-02T03:52:51.905Z'
 sourcePath: _posts/2016-09-01-michael-james-reed-acting-reel.md
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://vimeo.com/user6811335'
     avatar: {}
 via: {}
-dateModified: '2016-09-02T03:46:22.072Z'
+dateModified: '2016-09-02T03:52:51.537Z'
 title: Michael James Reed - Acting reel
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/145638602'
