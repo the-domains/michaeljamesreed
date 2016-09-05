@@ -33,14 +33,14 @@ navigation:
   - name: Headshots
     id: a0adfc13-9eb9-4749-8aa2-e0ff7236d414
     type: content
+  - name: Production Photos
+    id: abadf086-55b1-4ebf-b0f2-fcf00d08bd52
+    type: content
   - name: IMDB
     url: 'http://www.imdb.com/name/nm0715594/'
     type: external
   - name: Video
     id: 5c55da68-677b-4bfb-b9c6-3b3407ef82da
-    type: content
-  - name: Production Photos
-    id: abadf086-55b1-4ebf-b0f2-fcf00d08bd52
     type: content
   - name: Voiceovers
     id: c4e06bf8-7e9d-4f25-9ea6-d348e88e95cc
