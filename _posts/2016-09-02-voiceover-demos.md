@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T14:44:09.111Z'
+datePublished: '2016-09-02T17:50:12.605Z'
 sourcePath: _posts/2016-09-02-voiceover-demos.md
 inFeed: false
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: 'http://soundcloud.com/user-123236024'
     avatar: {}
 via: {}
-dateModified: '2016-09-02T14:44:08.699Z'
+dateModified: '2016-09-02T17:50:12.143Z'
 title: Voiceover Demos
 publisher: {}
 description: Narration voiceover demo for Michael James Reed
